@@ -9,7 +9,7 @@ wifi_firmware is the source for the esp8266
 Into the PCB folder you can find the PCB wich is ready to use with the press and peel tecnique,
 also you can find the pinout of the eachine pro 58
 
-The 3D folder is a mess, go to thingiverse to find the freecad file to modify the project and see the entire project perspetive
+The 3D folder is a mess, go to thingiverse to find the freecad file to modify the project and see the entire project perspective
 
 This antenna tracker is based on PID controller and single antenna tracking is experimental so use the manual settings
 
