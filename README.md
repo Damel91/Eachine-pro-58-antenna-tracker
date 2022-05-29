@@ -9,7 +9,7 @@ wifi_firmware is the source for the esp8266
 Into the PCB folder you can find the PCB wich is ready to use with the press and peel tecnique,
 also you can find the pinout of the eachine pro 58
 
-The 3D folder is a mess, go to thingiverse to find the freecad file to modify the project and see the entire project perspective
+The 3D folder is a mess, go to thingiverse to find the freecad file to modify the project and see the entire project perspective https://www.thingiverse.com/thing:5397986/files
 
 This antenna tracker is based on PID controller and single antenna tracking is experimental so use the manual settings
 
@@ -24,3 +24,9 @@ The step down module can work from 2S LIPO to 6S LIPO and the code will automati
 
 
 The gui will connect to the esp8266 through wifi since the esp8266 is configured as ap.
+
+The antenna tracker mover vertically and horizzontally(wich is applied the actual pid tracking)
+
+The servos used are two 9g
+
+Also you need three 624ZZ ball bearings
