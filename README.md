@@ -21,3 +21,6 @@ The analog pin of the ESP8266 is used to read the battery voltage, so use a trim
 some esp8266 analog pin have 1V max others 3,3V, use the jumper to disconnect the trimmer output from the analog pin and calibrate the maximum voltege with the maximum level for the esp8266
 
 The step down module can work from 2S LIPO to 6S LIPO and the code will automatically recognize the battery status and it's cell number, but of course you need to calibrate the trimmer with the maximum level of a 6S LIPO.
+
+
+The gui will connect to the esp8266 through wifi since the esp8266 is configured as ap.
